@@ -39,3 +39,6 @@ RestorePoint::~RestorePoint() {
         delete storage[i];
     }
 }
+
+
+
