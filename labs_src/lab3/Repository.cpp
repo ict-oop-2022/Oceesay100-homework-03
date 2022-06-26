@@ -48,3 +48,4 @@ std::vector<Storage *> Repository::save(std::vector<JobObject *> listOfFiles, st
 }
 
 Repository::~Repository() {}
+
