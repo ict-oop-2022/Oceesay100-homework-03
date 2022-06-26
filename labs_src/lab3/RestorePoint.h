@@ -19,3 +19,4 @@ public:
     int countOfStorage();
     ~RestorePoint();
 };
+
