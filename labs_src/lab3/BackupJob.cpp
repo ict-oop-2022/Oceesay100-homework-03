@@ -84,3 +84,5 @@ int BackupJob::countOfStorage() {
 BackupJob::~BackupJob() {
     delete backup;
 }
+
+
