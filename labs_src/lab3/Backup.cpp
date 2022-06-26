@@ -21,3 +21,5 @@ Backup::~Backup() {
         delete listOfRestorePoint[i];
     }
 }
+
+
